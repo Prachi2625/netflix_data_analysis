@@ -12,6 +12,9 @@ This project analyzes Netflix dataset using Python, Pandas, and Matplotlib.
 - Rating distribution
 
 ## Visualizations
+### Movies Per Year 
+![Movies per year].(movies_per_year_plot.png)
+
 ### Genre Bar Chart
 ![Genre Chart](genre_bar_chart.png)
 
@@ -19,6 +22,7 @@ This project analyzes Netflix dataset using Python, Pandas, and Matplotlib.
 ![Rating Chart](rating_bar_chart.png)
 
 ## Conclusion
+- Identified movies per year on Netflix
 - Identified most common genres on Netflix
 - Analyzed rating trends
 - Visualized data using graphs
