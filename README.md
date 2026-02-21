@@ -13,7 +13,7 @@ This project analyzes Netflix dataset using Python, Pandas, and Matplotlib.
 
 ## Visualizations
 ### Movies Per Year 
-![Movies per year].(movies_per_year_plot.png)
+![Movies per year](movies_per_year_plot.png)
 
 ### Genre Bar Chart
 ![Genre Chart](genre_bar_chart.png)
